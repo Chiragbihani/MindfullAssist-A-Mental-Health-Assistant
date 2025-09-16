@@ -36,6 +36,28 @@ Create a .env.local file and include:
 ```bash
 npm run dev
 ```
+## 📸 Screenshots
+
+### Home Page  
+![Home Page](src/Images/Landing_Page.png)
+
+### Chatbot Interface  
+![Chatbot](src/Images/ChatBot.png)
+
+### Assessment Interface 
+![assessment](src/Images/Assessment.png)
+
+### Result of Assessment
+![Report](src/Images/Report.png)
+
+### Resources which could improve your Mental health Status
+![Resources](src/Images/Resources.png)
+
+### Podcasts you can listen based on the mental health status
+![Podcast](src/Images/Podcasts.png)
+
+### .txt Report of the Assessments and suggestions based on it
+Here is the text sample output of the assessment report genrated [Open mental-health-assessment.txt](src/Images/mental-health-assessment%20(1).txt)
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
